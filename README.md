@@ -1,3 +1,3 @@
 # Demo 
 
-some description frombharjoban singh 2.
+some description from bharjoban singh 2.
